@@ -1,2 +1,2 @@
-yarn lint-staged
-yarn tsc -p tsconfig.app.json --noEmit
+pnpm lint-staged
+pnpm tsc -p tsconfig.app.json --noEmit
